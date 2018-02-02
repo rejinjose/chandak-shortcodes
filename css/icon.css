@@ -1,0 +1,11 @@
+.sc-icon{
+	background-position: center center !important;
+    /*background-size: 80px auto !important;*/
+    background-size: contain !important;
+}
+.sc-icon-portfolio-listing{
+	background-image: url('../icons/bricks.png') !important;
+}
+.sc-icon-slide-in-text-img-banner{
+	background-image: url('../icons/text-img-banner.jpg') !important;
+}
