@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Chandak Group Shortcodes
+Plugin Name: Chandak Shortcodes
 Plugin URI: https://quadnotion.com/
 Description: Quadnotion bundle For King Composer plugin is a mega powerful extensions/addons collection for King Composer page builder.
 Author: Quadnotion
